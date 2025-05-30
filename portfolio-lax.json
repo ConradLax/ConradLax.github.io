@@ -1,0 +1,176 @@
+{
+  "name": "John Conrad Mendoza Laxamana",
+  "label": "Senior Programmer",
+  "image_path": "portfolio_media/lax.jpg",
+  "contact": {
+    "email": "johnconradlaxamana@gmail.com",
+    "phone": "0919-436-4501",
+    "location": "Las Piñas City, Metro Manila"
+  },
+  "summary": "Innovative software developer with a strong background in automation and data processing.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "www.linkedin.com/in/john-conrad-laxamana-8aa6a5208",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "SVI Software Services Corporation",
+      "position": "Senior Programmer",
+      "url": "https://www.svi.com.ph/",
+      "start_date": "07/10/2024",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+        "Led the development of Production Support tools for multiple digitalization projects using Jira and Agile framework.",
+        "Spearheaded the design and development of an automated system for internal data digitization processes, resulting in a significant reduction in manual effort in encoding.",
+        "Served as a gatekeeper for production releases by reviewing and approving merge requests before production deployment.",
+        "Developed batch programs and scripts in Python for efficient image cleaning, data pre-processing, and data transmission."
+      ]
+    },
+    {
+      "company": "SVI Software Services Corporation",
+      "position": "Junior Programmer",
+      "url": "https://www.svi.com.ph/",
+      "start_date": "10/01/2022",
+      "end_date": "07/10/2024",
+      "summary": "",
+      "highlights": [
+        "Developed AutoForm Assist (AFA), a generic data entry automation tool that streamlines data input from Excel spreadsheets and CSV files into third-party applications.",
+        "Implemented PDF Redact, a core library for an internal file system's microservice, utilizing Python to redact sensitive text from PDF documents.",
+        "Created a Cassandra-MariaDB Data Synchronization Tool in Java, enabling the generation of Power BI reports from Cassandra data sources by synchronizing with MariaDB.",
+        "Designed StalacSync, a Python tool that automates file uploads between servers and local systems, enhancing data transfer efficiency.",
+        "Designed a system of tools for authenticating bank clients applying for loans in collaboration with government services.",
+        "Developed a Swift app to integrate a web application, creating an iOS version to enhance accessibility.",
+        "Built the Hoist Android App using Kotlin, allowing the client's staff to upload encrypted documents to the cloud securely.",
+        "Created an Image Edit Tool using WPF and later MAUI C#, for inspecting, tagging, and labeling scanned images, facilitating image quality control and affine transformations.",
+        "Recognized as a Performance Awardee in 2024 for outstanding achievement in the development of AutoForm Assist, receiving commendations from the former Vice President of Software Products Department and the President and CEO for exceptional contributions to the vehicle registration system."
+      ]
+    },
+    {
+      "company": "SVI Software Services Corporation",
+      "position": "Intern",
+      "url": "https://www.svi.com.ph/",
+      "start_date": "07/13/2022",
+      "end_date": "08/23/2022",
+      "summary": "Short summary about previous job and what that position entailed",
+      "highlights": [
+        "Developed a generic data entry tool for encoding various documents online, enabling encoders to perform their tasks remotely."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AutoCard",
+      "summary": "Automated Sentence Mining for Anki using web scraper",
+      "highlights": [
+        "Primarily used together with Mass Immersion Approach, a language learning method that emphasizes intense exposure to the target language.",
+        "Creates flash cards instantly based on user's proficiency level."
+      ],
+      "images": [
+        {
+          "img_path": "portfolio_media/AutoCard_1.png",
+          "caption": "AutoCard Dictionaries"
+        },
+        {
+          "img_path": "portfolio_media/AutoCard_2.png",
+          "caption": "AutoCard's extracted Japanese sentences."
+        },
+        {
+          "img_path": "portfolio_media/AutoCard_3.png",
+          "caption": "AutoCard's review flash cards module."
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of the Philippines - Los Baños",
+      "location": "Los Baños, Laguna",
+      "url": "https://uplb.edu.ph",
+      "degrees": [
+        "Bachelor of Science in Computer Science",
+        "Minor in Mathematics"
+      ],
+      "honors": ["cum laude"],
+      "gpa_cumulative": "1.5135",
+      "graduation_date": "08/2023"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java, Jersey, Maven",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Python",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Cassandra",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 80,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "C#, WPF, MAUI",
+      "proficiency": 70,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": 50,
+      "proficiency_label": "Basic"
+    },
+    {
+      "name": "Swift",
+      "proficiency": 50,
+      "proficiency_label": "Basic"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tagalog",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "taking JLPT N3 on July 2025"
+    }
+  ],
+  "references": [
+    {
+      "name": "Mr. Jay Lacsam",
+      "relation": "former Vice President, SVI-SSC Software Products Department",
+      "reference": "Our CEO, Gil Guanio, assigned him the challenging task of developing an application capable of automating data entry into any third-party application using input from Excel spreadsheets or CSV files. Impressively, he not only rose to the challenge, but also exceeded expectations by completing the task within just one week. He named this innovative tool AutoForm Assist."
+    },
+    {
+      "name": "Mr. Gil V. Guanio",
+      "relation": "President and CEO, SVI",
+      "reference": "John Conrad Mendoza Laxamana has created the AUTOFORM program which is now the lynchpin of the vehicle registration system. This program has many uses. It enables the use of double pass indexing for web based input screens. This opens up a very big market for SVI-ISC.  John’s contribution to the effort is priceless."
+    }
+  ]
+}
